@@ -2,3 +2,4 @@ cake
 donuts
 ice cream
 cookies
+candy
